@@ -143,4 +143,4 @@ If you'd like to contribute to this project (e.g., add more examples, improve ex
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details (if one is included in the repository).
+This project is licensed under the MIT License.
